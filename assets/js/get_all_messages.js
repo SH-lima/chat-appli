@@ -1,5 +1,5 @@
-const url = "http://localhost:8888/config/traitement.php"
-const urlSession = "http://localhost:8888/config/session.php"
+const url = "https://chat-appli-exo.herokuapp.com//config/traitement.php"
+
 const messagesbloc = document.getElementById("space")
 let userConnect =document.getElementById("userConnect").textContent
 
